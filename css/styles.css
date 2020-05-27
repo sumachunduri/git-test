@@ -35,3 +35,18 @@ body {
     padding: 10px;
 
 }
+.card-header{
+    background-color: #D1C4E9;
+}
+.carousel{
+    background-color: #512DA8;
+}
+.carousel-item{
+    height:300px;
+}
+.carousel-item img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    min-height:300px;
+}
